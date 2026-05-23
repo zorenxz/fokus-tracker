@@ -8,7 +8,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // ============================================================
 const firebaseConfig = {
   apiKey: "AIzaSyBTNiEpc493NbTCUkbIeTeij4wbgxEzu0I",
-  authDomain: "focus-tracker-6c44b.firebaseapp.com",
+  authDomain: "fokus-tracker.vercel.app",
   projectId: "focus-tracker-6c44b",
   storageBucket: "focus-tracker-6c44b.firebasestorage.app",
   messagingSenderId: "373977418147",
