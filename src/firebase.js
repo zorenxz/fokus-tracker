@@ -2,10 +2,6 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
-// ============================================================
-// GANTI nilai di bawah ini dengan konfigurasi Firebase kamu
-// Firebase Console → Project Settings → Your apps → Web app
-// ============================================================
 const firebaseConfig = {
   apiKey: "AIzaSyBTNiEpc493NbTCUkbIeTeij4wbgxEzu0I",
   authDomain: "fokus-tracker.vercel.app",
